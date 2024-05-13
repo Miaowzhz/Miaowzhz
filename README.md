@@ -1,16 +1,13 @@
-### Hi there 👋
+大家好！
+我是Ler 🐲
+🐧 前大厂全栈攻城狮，腾讯云开发高级布道师，全网百万粉编程知识博主，自主创业中 鱼鸢网络
+👨‍💻 经历：关于我，一位程序员 UP 的成长史
+🏡 作品：编程导航 | 代码生成器共享平台 | 数据生成器 | SQL自学网 | 极客范主页 | AI自动回复工具 | SQL生成器 | 面试鸭 | 网站攻击自学网 | RPC框架 | 求星星 ✨
+🌱 干货：公众号『 程序员鱼皮 』
+😺 视频：B站 程序员鱼皮 | 抖音、YouTube、知乎 程序员鱼皮
+📚 免费编程资源：鱼皮的编程宝典 | 鱼皮原创文章汇总
+💬 原创项目教程：全程直播带做的保姆级教程，现成的简历写法和面试题解
+👭 编程导航：国内 TOP 级编程学习圈，帮你学好编程、做出项目、提升求职竞争力
+🤖 自研产品：老鱼简历 | 鱼聪明 AI 助手 | 剪切助手 | 代码小抄 | 框框大学
+今年汇总 ✨
 
-<!--
-**Miaowzhz/Miaowzhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
