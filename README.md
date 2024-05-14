@@ -1,5 +1,5 @@
-### Hi！there👋
-### I am Ler 🐲
+## Hi！there👋
+## I am Ler 🐲
 #
 - 🏆A Java Developer
 - 📝博客：https://miaowzhz.github.io/🤗
@@ -48,6 +48,4 @@
 
 🌬🌪🌧🌂☂☔⛈🌥🌤🌈
 
-
-### Hi there 👋 This is Lina ！✨ 
  
