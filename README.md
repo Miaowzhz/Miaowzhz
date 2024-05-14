@@ -6,7 +6,7 @@
 - 💻项目：|YangBI 📊数据分析可视化平台|
 #
 ### 🌪技术栈
-[![My Skills](https://skillicons.dev/icons?i=java,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,springboot)](https://skillicons.dev)
 
 #
 ### 报告
