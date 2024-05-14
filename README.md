@@ -35,6 +35,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" alt="MySQL"/>
   </a>
+  <a href="https://mybatis.org/mybatis-3/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MyBatis-BF1A2A?style=flat-square&logo=mybatis&logoColor=ffffff" alt="MyBatis"/>
+  </a>
 </p>
 
 ### 🗓报告
