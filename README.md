@@ -7,7 +7,7 @@
 #
 ### 🌪技术栈
 [![My Skills](https://skillicons.dev/icons?i=java,spring,SpringBoot,Git,RabbitMQ,Redis)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=RabbitMQ,Redis)](https://skillicons.dev)
 #
 ### 报告
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaowzhz&show_icons=true&theme=graywhite&title_color=F5B642&text_color=D8E2DC&icon_color=5AA9E6&bg_color=DEG,1E3A8A,5AA9E6&hide_border=true&cache_seconds=3600&locale=cn)
