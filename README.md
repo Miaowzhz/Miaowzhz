@@ -3,7 +3,7 @@
 #
 - 🏆A Java Developer
 - 📝博客：https://miaowzhz.github.io  🤗🤗🤗
-- 💻项目：|YangBI 📊数据分析可视化平台|
+- 💻项目：|YangBI 📊数据分析可视化平台|LerAPI 接口开放调用平台|
 #
 ### 🌪技术栈
 
