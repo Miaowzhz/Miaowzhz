@@ -1,9 +1,7 @@
 ## Hi！there👋
 ## I am Ler 🐲
 #
-- 🏆A Java Developer
-- 📝博客：https://miaowzhz.github.io  🤗🤗🤗
-- 💻项目：|YangBI 📊数据分析可视化平台|LerAPI 接口开放调用平台|
+- 🏆A Developer
 #
 ### 🌪技术栈
 
@@ -39,13 +37,5 @@
     <img src="https://img.shields.io/badge/-MyBatis-BF1A2A?style=flat-square&logo=mybatis&logoColor=ffffff" alt="MyBatis"/>
   </a>
 </p>
-
-### 🗓统计报告
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miaowzhz&layout=compact&title_color=F5B642&text_color=D8E2DC&bg_color=DEG,1E3A8A,5AA9E6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaowzhz&show_icons=true&theme=graywhite&title_color=F5B642&text_color=D8E2DC&icon_color=5AA9E6&bg_color=DEG,1E3A8A,5AA9E6&hide_border=true&cache_seconds=3600&locale=cn)
-### 😜See you
-
-🌬🌪🌧🌂☂☔⛈🌥🌤🌈
 
  
