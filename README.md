@@ -1,10 +1,7 @@
 ## Hi！there👋
 ## I am Ler 🐲
-#
 - 🏆A Developer
-#
 ### 🌪技术栈
-
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff" alt="Java"/>
